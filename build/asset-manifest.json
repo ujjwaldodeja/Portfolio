@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7f7f777.css",
-    "main.js": "/static/js/main.2eb616f1.js",
-    "static/js/787.97ae6914.chunk.js": "/static/js/787.97ae6914.chunk.js",
-    "static/media/ad-hoc.png": "/static/media/ad-hoc.e80acb19022889440e6d.png",
-    "static/media/posture.png": "/static/media/posture.0993b32c1f93f5ba2c3d.png",
-    "static/media/othello.png": "/static/media/othello.2c4bbb8bcbf5ae2d2b3a.png",
-    "static/media/verbal_chess.png": "/static/media/verbal_chess.6700e96c089d2507409f.png",
-    "static/media/cc.png": "/static/media/cc.8ddd7f0703269e035014.png",
-    "static/media/pentago.png": "/static/media/pentago.6657cb45abdf0fbb182a.png",
-    "static/media/twit_dash.svg": "/static/media/twit_dash.e83c6f472de1671394a7cbb1c5baaf77.svg",
-    "static/media/setting-icon.svg": "/static/media/setting-icon.0574e6c802bb1ef2749c.svg",
-    "index.html": "/index.html",
-    "main.f7f7f777.css.map": "/static/css/main.f7f7f777.css.map",
-    "main.2eb616f1.js.map": "/static/js/main.2eb616f1.js.map",
-    "787.97ae6914.chunk.js.map": "/static/js/787.97ae6914.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.75a2bfcd.css",
+    "main.js": "/Portfolio/static/js/main.ece45f09.js",
+    "static/js/453.6db8d84b.chunk.js": "/Portfolio/static/js/453.6db8d84b.chunk.js",
+    "static/media/ad-hoc.png": "/Portfolio/static/media/ad-hoc.e80acb19022889440e6d.png",
+    "static/media/posture.png": "/Portfolio/static/media/posture.0993b32c1f93f5ba2c3d.png",
+    "static/media/othello.png": "/Portfolio/static/media/othello.2c4bbb8bcbf5ae2d2b3a.png",
+    "static/media/verbal_chess.png": "/Portfolio/static/media/verbal_chess.6700e96c089d2507409f.png",
+    "static/media/cc.png": "/Portfolio/static/media/cc.8ddd7f0703269e035014.png",
+    "static/media/pentago.png": "/Portfolio/static/media/pentago.6657cb45abdf0fbb182a.png",
+    "static/media/twit_dash.svg": "/Portfolio/static/media/twit_dash.e83c6f472de1671394a7cbb1c5baaf77.svg",
+    "static/media/setting-icon.svg": "/Portfolio/static/media/setting-icon.0574e6c802bb1ef2749c.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.75a2bfcd.css.map": "/Portfolio/static/css/main.75a2bfcd.css.map",
+    "main.ece45f09.js.map": "/Portfolio/static/js/main.ece45f09.js.map",
+    "453.6db8d84b.chunk.js.map": "/Portfolio/static/js/453.6db8d84b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7f7f777.css",
-    "static/js/main.2eb616f1.js"
+    "static/css/main.75a2bfcd.css",
+    "static/js/main.ece45f09.js"
   ]
 }
